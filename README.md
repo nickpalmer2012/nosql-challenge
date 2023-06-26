@@ -11,3 +11,10 @@ Module 12 Challenge
 -  I then can add another dictionary that specifies the fields I want to return with my query by adding a comma to the end of the first dictionary that searches for records with the specified conditions. I then add another dictionary that specifies which fields I want the query to return by pairing the field type with a "1".
 
 -  I learned in the documentation that the ID number will be included in any query by default, so it is necessary to add "_id":0, so that only the BusinessType and BusinessTypeID show in the result.
+
+
+### Delete all records with "Dover" local authority name:
+- ChatGPT helped me get the following example code to create a deleted records variable, then return the number of deleted records to see if it matches the count of the query above.
+- ![image](https://github.com/nickpalmer2012/nosql-challenge/assets/128104435/f9b0f98d-eedb-4584-acdd-483ec73ba85e)
+- ![image](https://github.com/nickpalmer2012/nosql-challenge/assets/128104435/b383f9dd-e41c-4585-a2d1-eba2ba6788e2)
+
