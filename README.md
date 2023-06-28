@@ -18,3 +18,6 @@ Module 12 Challenge
 - ![image](https://github.com/nickpalmer2012/nosql-challenge/assets/128104435/f9b0f98d-eedb-4584-acdd-483ec73ba85e)
 - ![image](https://github.com/nickpalmer2012/nosql-challenge/assets/128104435/b383f9dd-e41c-4585-a2d1-eba2ba6788e2)
 
+
+### Search for establishments with RatingValue greater than or equal to:
+https://www.mongodb.com/docs/manual/reference/operator/query/gte/
