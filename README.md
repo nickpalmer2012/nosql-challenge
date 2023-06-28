@@ -21,3 +21,8 @@ Module 12 Challenge
 
 ### Search for establishments with RatingValue greater than or equal to:
 https://www.mongodb.com/docs/manual/reference/operator/query/gte/
+
+### Search for establishments that are within 0.01 degrees of the coordinates for "Penang Flavors"
+- documentation for "center" operator in MongoDB
+- https://www.mongodb.com/docs/manual/reference/operator/query/center/
+- I used the sort_and_limit_pets example from class to set up the sort parameter.
